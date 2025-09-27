@@ -1,0 +1,18 @@
+# Django web framework
+Django>=5.2
+
+# Django REST Framework
+djangorestframework>=3.16
+django-filter>=25.1
+
+# Machine learning libraries
+scikit-learn>=1.7
+numpy>=2.3
+pandas>=2.3
+joblib>=1.5
+
+# Optional for HTTP requests or data handling if used
+requests>=2.32
+
+# Optional for scientific computing
+scipy>=1.16
